@@ -2,7 +2,7 @@
     "cloud": {
         "apps": [
             {
-                "appId": "5df3eef6-9c98-45fe-980e-77c6d2c81ad1",
+                "appId": "f71bed17-39de-43cf-94c6-e67aa2f02655",
                 "baseDir": "packages/app",
                 "dependencyInstallCommand": "npm install",
                 "webBuildCommand": "npm run build"
