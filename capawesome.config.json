@@ -4,8 +4,8 @@
             {
                 "appId": "5df3eef6-9c98-45fe-980e-77c6d2c81ad1",
                 "baseDir": "packages/app",
-                "dependencyInstallCommand": "cd ../.. && npm install",
-                "webBuildCommand": "cd ../.. && npm run build --workspace=packages/app"
+                "dependencyInstallCommand": "npm install",
+                "webBuildCommand": "npm run build"
             }
         ]
     }

@@ -1,4 +1,0 @@
-{
-  "name": "my-workspaces-project",
-  "workspaces": ["packages/app"]
-}
